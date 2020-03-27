@@ -14,8 +14,7 @@ public class Constantes {
 	
 	public void init(){
 		listeEtds.add("MEJRI Houssem");
-		listeEtds.add("NOM Prenom");
-				
+						
 	}
 
 	public List<String> getListeEtds() {
