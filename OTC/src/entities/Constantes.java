@@ -14,11 +14,13 @@ public class Constantes {
 	
 	public void init(){
 		listeEtds.add("MEJRI Houssem");
-    listeEtds.add("MEJRI Houssem STD");
+		listeEtds.add("MEJRI Houssem STD");
 		listeEtds.add("BRINI Maher");
 		listeEtds.add("user1");
 		listeEtds.add("user 2");
-		listeEtds.add("Kouka Ibtihel");		
+		listeEtds.add("Kouka Ibtihel");
+		/* modificaton ICI par user1*/
+		listeEtds.add("Nouvel ETD");	
 
 	}
 
