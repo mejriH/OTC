@@ -1,7 +1,0 @@
-MEJRI Houssem
-ligne ajoute depuis user2 -- HMejri
-ecrasement -- exécution d'un push sans pull !!!
-
-*************************
-*************************
-Fix conflict
