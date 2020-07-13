@@ -20,7 +20,8 @@ public class Constantes {
 		listeEtds.add("user 2");
 		listeEtds.add("Kouka Ibtihel");
 		/* modificaton ICI par user1*/
-		listeEtds.add("Nouvel ETD");	
+		listeEtds.add("Nouvel ETD");
+        listeEtds.add("Sabrine Ksibi");		
 
 	}
 
